@@ -1,4 +1,4 @@
-The goal of this project was to use VBA scripting to analyze the data of different stocks.  The dataset includes three years of data, each on a different worksheet that the code will work on reguardless of column length.  Included in this repo is this README which contains a description of the project and the VBA code, a .vbs file with the code that can be run, and an Excel Macro-Enabled Worksheet containing the data that the code was run on, which unfortunately can not be viewed on github and has to be downloaded to view. Because the file cannot be viewd here, a before and an after screenshot will be included at the end of this README. 
+The goal of this project was to use VBA scripting to analyze the data of different stocks.  The dataset includes three years of data, each on a different worksheet that the code will work on reguardless of column length.  Included in this repo is this README which contains a description of the project and the VBA code, a .vbs file with the code that can be run, and a folder with the Excel Macro-Enabled Worksheet containing the data that the code was run on, which unfortunately can not be viewed on github and has to be downloaded to view. Because the file cannot be viewd here, a before and an after screenshot will be included at the end of this README. 
 
 What the code does:
 
@@ -17,7 +17,7 @@ What the code does:
 Before and After Screenshots:
 
 Before:
-
+![Alt text](Before_screen.png "After code has run")
 
 After:
 ![Alt text](After_screen.png "After code has run")
