@@ -2,17 +2,17 @@ The goal of this project was to use VBA scripting to analyze the data of differe
 
 What the code does:
 
-- Grab the total amount of volume each stock had for the year and display it with the corresponding ticker symbol.
+- Grab the total amount of volume each stock had for the year and display it with the corresponding ticker symbol
 
-- Grab the yearly change from the stock open to the year close and display that number and the percent change.
+- Grab the yearly change from the stock open to the year close and display that number and the percent change
 
-- Check to make sure there is not a divide by 0 error.
+- Check to make sure there is not a divide by 0 error
 
-- Locate and display the stock with the greatest % increase, the stock with the greatest % decrease and stock with the greatest total volume for the year.
+- Locate and display the stock with the greatest % increase, the stock with the greatest % decrease and stock with the greatest total volume for the year
 
 - Repeat for each worksheet
 
-- Also used conditional formating to color a positive yearly change in green and a negative change in red.
+- Also used conditional formating to color a positive yearly change in green and a negative change in red
 
 Before and After Screenshots:
 
