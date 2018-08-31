@@ -10,7 +10,7 @@ What the code does:
 
 - Locate and display the stock with the greatest % increase, the stock with the greatest % decrease and stock with the greatest total volume for the year.
 
-- Repeate for each worksheet
+- Repeat for each worksheet
 
 - Also used conditional formating to color a positive yearly change in green and a negative change in red.
 
